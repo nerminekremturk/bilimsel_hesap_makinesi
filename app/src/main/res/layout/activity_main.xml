@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#0C776B"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <EditText
+        android:id="@+id/islemekran"
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:background="#FCFCFC"
+        android:hint="Sayi giriniz:" />
+
+
+    <Button
+        android:id="@+id/btn8"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_x="137dp"
+        android:layout_y="177dp"
+        android:background="#FCFCFC"
+        android:text="8" />
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_x="135dp"
+        android:layout_y="44dp"
+        android:background="#FCFCFC"
+        android:text="2" />
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_x="28dp"
+        android:layout_y="47dp"
+        android:background="#FCFCFC"
+        android:text="1" />
+
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_x="238dp"
+        android:layout_y="44dp"
+        android:background="#FCFCFC"
+        android:text="3" />
+
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_x="30dp"
+        android:layout_y="110dp"
+        android:background="#FCFCFC"
+        android:text="4" />
+
+    <Button
+
+        android:id="@+id/btn5"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_x="136dp"
+        android:layout_y="110dp"
+        android:background="#FCFCFC"
+        android:text="5" />
+
+    <Button
+        android:id="@+id/btn6"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_x="240dp"
+        android:layout_y="110dp"
+        android:background="#FCFCFC"
+        android:text="6" />
+
+    <Button
+        android:id="@+id/btn7"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_x="30dp"
+        android:layout_y="177dp"
+        android:background="#FCFCFC"
+        android:text="7" />
+
+    <Button
+        android:id="@+id/btnEksi"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_x="138dp"
+        android:layout_y="242dp"
+        android:background="#FCFCFC"
+        android:text="-" />
+
+    <Button
+        android:id="@+id/btnArti"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_x="32dp"
+        android:layout_y="244dp"
+        android:background="#FCFCFC"
+        android:text="+" />
+
+    <Button
+        android:id="@+id/btn0"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_x="243dp"
+        android:layout_y="244dp"
+        android:background="#FCFCFC"
+        android:text="0" />
+
+    <Button
+        android:id="@+id/btnCarp"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_x="34dp"
+        android:layout_y="311dp"
+        android:background="#FCFCFC"
+        android:text="X" />
+
+    <Button
+        android:id="@+id/btnBolme"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_x="140dp"
+        android:layout_y="309dp"
+        android:background="#FCFCFC"
+        android:text="/" />
+
+    <Button
+        android:id="@+id/btnEsit"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_x="243dp"
+        android:layout_y="311dp"
+        android:background="#FCFCFC"
+        android:text="=" />
+
+    <Button
+        android:id="@+id/btnCos"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_x="141dp"
+        android:layout_y="375dp"
+        android:background="#FCFCFC"
+        android:text="Cos" />
+
+    <Button
+        android:id="@+id/btnSin"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_x="33dp"
+        android:layout_y="376dp"
+        android:background="#FCFCFC"
+        android:text="Sin" />
+
+    <Button
+        android:id="@+id/btnÜs"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_x="245dp"
+        android:layout_y="372dp"
+        android:background="#FCFCFC"
+        android:text="log" />
+
+    <Button
+        android:id="@+id/btnKök"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_x="34dp"
+        android:layout_y="438dp"
+        android:background="#FCFCFC"
+        android:text="√" />
+
+    <Button
+        android:id="@+id/btnTan"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_x="142dp"
+        android:layout_y="441dp"
+        android:background="#FCFCFC"
+        android:text="Tan" />
+
+    <Button
+        android:id="@+id/btnTekSil"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_x="246dp"
+        android:layout_y="440dp"
+        android:background="#FCFCFC"
+        android:text="Sil" />
+
+    <Button
+        android:id="@+id/btnKüp"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_x="141dp"
+        android:layout_y="506dp"
+        android:background="#FCFCFC"
+        android:text="x³" />
+
+    <Button
+        android:id="@+id/btnKare"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_x="33dp"
+        android:layout_y="504dp"
+        android:background="#FCFCFC"
+        android:text="x²" />
+
+    <Button
+        android:id="@+id/btnSifirla"
+        android:layout_width="61dp"
+        android:layout_height="wrap_content"
+        android:layout_x="249dp"
+        android:layout_y="506dp"
+        android:background="#FCFCFC"
+        android:text="AC" />
+
+    <Button
+        android:id="@+id/btn9"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_x="241dp"
+        android:layout_y="177dp"
+        android:background="#FCFCFC"
+        android:text="9" />
+
+</AbsoluteLayout>

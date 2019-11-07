@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn0" type="id" />
+    <item name="btn1" type="id" />
+    <item name="btn2" type="id" />
+    <item name="btn3" type="id" />
+    <item name="btn4" type="id" />
+    <item name="btn5" type="id" />
+    <item name="btn6" type="id" />
+    <item name="btn7" type="id" />
+    <item name="btn8" type="id" />
+    <item name="btn9" type="id" />
+    <item name="btnArti" type="id" />
+    <item name="btnEksi" type="id" />
+    <item name="btnCarp" type="id" />
+    <item name="btnBolme" type="id" />
+    <item name="btnKare" type="id" />
+    <item name="btnKüp" type="id" />
+    <item name="btnÜs" type="id" />
+    <item name="btnCos" type="id" />
+    <item name="btnSin" type="id" />
+    <item name="btnTan" type="id" />
+    <item name="btnKök" type="id" />
+    <item name="btnTekSil" type="id" />
+    <item name="btnEsit" type="id" />
+    <item name="btnSifirla" type="id" />
+    <item name="islemekran" type="id" />
+</resources>
